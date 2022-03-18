@@ -4,4 +4,4 @@
 
 ## Steps
 * Intro to ML course
-* Colab tutorial
+* Colab tutorial <https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/image_classification.ipynb>
