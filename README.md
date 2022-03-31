@@ -1,6 +1,9 @@
 # Ai-facial-recognition
-* member 1
-* member 2
+* Renzo Ferroni
+* Edgar Gonzales
+* Aurelien Amiot
+* Alessio Fleites
+* Alexander Goldenstein
 
 ## Steps
 * Intro to ML course <https://developers.google.com/machine-learning/problem-framing>
