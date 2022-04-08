@@ -4,6 +4,7 @@
 * Aurelien Amiot
 * Alessio Fleites
 * Alexander Goldenstein
+* Renzo is the GOAT
 
 ## Steps
 * Intro to ML course <https://developers.google.com/machine-learning/problem-framing>
